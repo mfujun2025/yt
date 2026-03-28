@@ -1,0 +1,19 @@
+{
+  "lives": [
+    {
+      "group": "樱桃电视",
+      "channels": [
+        {
+          "name": "樱桃电视",
+          "urls": [
+            "https://www.262m.com"
+          ]
+        }
+      ]
+    }
+  ],
+  "sites": [],
+  "spider": "",
+  "wallpaper": "",
+  "doh": ""
+}
