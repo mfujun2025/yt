@@ -1,19 +1,1623 @@
 {
   "lives": [
     {
-      "group": "樱桃电视",
+      "group": "动作片专区",
       "channels": [
         {
-          "name": "樱桃电视",
+          "name": "动作片-打黑",
           "urls": [
-            "https://www.262m.com"
+            "https://hd.ijycnd.com/play/Xe062L5b/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-尼斯警花",
+          "urls": [
+            "https://hd.ijycnd.com/play/YaOrZ4Le/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-钻石女王",
+          "urls": [
+            "https://hd.ijycnd.com/play/9aA51nPa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-枪手",
+          "urls": [
+            "https://hd.ijycnd.com/play/1aMpZ23e/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-弯刀",
+          "urls": [
+            "https://hd.ijycnd.com/play/QeZJ8XRe/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-同盟",
+          "urls": [
+            "https://hd.ijycnd.com/play/YerwRZpa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-重见天日",
+          "urls": [
+            "https://hd.ijycnd.com/play/lejlRDyb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-龙卷风 1996",
+          "urls": [
+            "https://hd.ijycnd.com/play/QbY7xO9e/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-龙卷风 2024",
+          "urls": [
+            "https://hd.ijycnd.com/play/mep3Gm1d/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-复仇长官",
+          "urls": [
+            "https://hd.ijycnd.com/play/pen3BQPa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-热血天使",
+          "urls": [
+            "https://hd.ijycnd.com/play/Pdy3ZOga/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-跨界任务",
+          "urls": [
+            "https://hd.ijycnd.com/play/Yer3jjWa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-快人一步",
+          "urls": [
+            "https://hd.ijycnd.com/play/mep347Xd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-大官 小官",
+          "urls": [
+            "https://hd.ijycnd.com/play/BeXWQrvd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-亡命赌注",
+          "urls": [
+            "https://hd.ijycnd.com/play/YaOwNgBa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-热血杀手",
+          "urls": [
+            "https://hd.ijycnd.com/play/lej3oG5a/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-纨绔子弟 电影版2",
+          "urls": [
+            "https://hd.ijycnd.com/play/lej3pGYa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-澳门往事之猛虎过江",
+          "urls": [
+            "https://hd.ijycnd.com/play/Xe0x6XNe/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-沙漠袭击",
+          "urls": [
+            "https://hd.ijycnd.com/play/5eVEEZMd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-醉后一拳",
+          "urls": [
+            "https://hd.ijycnd.com/play/pen3164a/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-殊死一搏",
+          "urls": [
+            "https://hd.ijycnd.com/play/Pdy3BkVa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-哪吒·魔童归来",
+          "urls": [
+            "https://hd.ijycnd.com/play/pen3Apla/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-龙拳小子2",
+          "urls": [
+            "https://hd.ijycnd.com/play/Yer3WV2a/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-逃脱",
+          "urls": [
+            "https://hd.ijycnd.com/play/YaOw0WYa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-赊刀人",
+          "urls": [
+            "https://hd.ijycnd.com/play/QeZLn98b/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-谈判专家",
+          "urls": [
+            "https://hd.ijycnd.com/play/YaOwDMra/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-死亡狩猎",
+          "urls": [
+            "https://hd.ijycnd.com/play/lej3Pxya/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-东哥闯东北",
+          "urls": [
+            "https://hd.ijycnd.com/play/nel3PqVd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-卑劣的街头",
+          "urls": [
+            "https://hd.ijycnd.com/play/YaOw26Ya/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-寻龙迷棺",
+          "urls": [
+            "https://hd.ijycnd.com/play/QeZLD36b/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-绝地战警：生死与共",
+          "urls": [
+            "https://hd.ijycnd.com/play/DbDg7L6a/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-柔板",
+          "urls": [
+            "https://hd.ijycnd.com/play/1aMrXGQb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-我的间谍2：永恒之城",
+          "urls": [
+            "https://hd.ijycnd.com/play/1aMrNyPb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-驾驶",
+          "urls": [
+            "https://hd.ijycnd.com/play/lej3O5la/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-黄河水怪",
+          "urls": [
+            "https://hd.ijycnd.com/play/Rb4BkR1e/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-假面骑士555 20周年 天堂・重获",
+          "urls": [
+            "https://hd.ijycnd.com/play/Ddw3rAJd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-刺杀敢死队",
+          "urls": [
+            "https://hd.ijycnd.com/play/DbDg82Ba/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-星光继承者：公主反叛联盟",
+          "urls": [
+            "https://hd.ijycnd.com/play/rb20WDNe/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-绝地战警",
+          "urls": [
+            "https://hd.ijycnd.com/play/QeZL4k6b/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-哥斯拉大战金刚2：帝国崛起",
+          "urls": [
+            "https://hd.ijycnd.com/play/BeXWjpmd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-比佛利山超级警探4",
+          "urls": [
+            "https://hd.ijycnd.com/play/Yer1J4wd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-遍地狼烟",
+          "urls": [
+            "https://hd.ijycnd.com/play/yb8VpL2e/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-寿喜烧西部片",
+          "urls": [
+            "https://hd.ijycnd.com/play/pen1EG4d/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-呼吸",
+          "urls": [
+            "https://hd.ijycnd.com/play/nel1Bp6a/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-黄海",
+          "urls": [
+            "https://hd.ijycnd.com/play/QeZ1JrEd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-关中诡事之雾隐藏棺",
+          "urls": [
+            "https://hd.ijycnd.com/play/rb2MMBja/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-归零地",
+          "urls": [
+            "https://hd.ijycnd.com/play/Xe0KZkNd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-荒野女囚",
+          "urls": [
+            "https://hd.ijycnd.com/play/Ddw1Lk8a/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-疯狂的麦克斯：狂暴女神",
+          "urls": [
+            "https://hd.ijycnd.com/play/mep15pVa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-血战铜锣湾2",
+          "urls": [
+            "https://hd.ijycnd.com/play/QeZ1Qngd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-黑暗森林",
+          "urls": [
+            "https://hd.ijycnd.com/play/mep1D7pa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-狙击精英之纳米危机",
+          "urls": [
+            "https://hd.ijycnd.com/play/1aKDo5Mb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-九龙城寨",
+          "urls": [
+            "https://hd.ijycnd.com/play/QbYNOpdz/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-九龙城寨之围城 普通话版",
+          "urls": [
+            "https://hd.ijycnd.com/play/YaOKpxYa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-九龙城寨之围城 粤语版",
+          "urls": [
+            "https://hd.ijycnd.com/play/lej1W4Pd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-触发警报",
+          "urls": [
+            "https://hd.ijycnd.com/play/qaQMrRZa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-锦衣卫 梁家仁版",
+          "urls": [
+            "https://hd.ijycnd.com/play/PdRoNYeG/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-李诺的梦想",
+          "urls": [
+            "https://hd.ijycnd.com/play/9b6QNzNa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-三叉戟",
+          "urls": [
+            "https://hd.ijycnd.com/play/mep1mXya/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-大侦探福尔摩斯2：诡影游戏",
+          "urls": [
+            "https://hd.ijycnd.com/play/PdROOLeG/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-荣耀法则",
+          "urls": [
+            "https://hd.ijycnd.com/play/Le3QkAAb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-寒鸦",
+          "urls": [
+            "https://hd.ijycnd.com/play/YaOKGxra/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-冰封侠：时空行者 普通话版",
+          "urls": [
+            "https://hd.ijycnd.com/play/yb8Zn23e/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-战心时刻",
+          "urls": [
+            "https://hd.ijycnd.com/play/Rb4O2Wna/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-速度与激情10",
+          "urls": [
+            "https://hd.ijycnd.com/play/negDP46a/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-职业杀手",
+          "urls": [
+            "https://hd.ijycnd.com/play/lej1YLld/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-丛林追击",
+          "urls": [
+            "https://hd.ijycnd.com/play/QeZ1YQwd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-制暴 2024",
+          "urls": [
+            "https://hd.ijycnd.com/play/Yer1RAkd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-福星威龙",
+          "urls": [
+            "https://hd.ijycnd.com/play/6dBLVka7/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-美人鱼战队",
+          "urls": [
+            "https://hd.ijycnd.com/play/xe7Llra7/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-沉默者(普通话版)",
+          "urls": [
+            "https://hd.ijycnd.com/play/Le3J29d6/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-叉手",
+          "urls": [
+            "https://hd.ijycnd.com/play/negMzYbw/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-杀手寓言",
+          "urls": [
+            "https://hd.ijycnd.com/play/zbqLO3ap/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-小人物",
+          "urls": [
+            "https://hd.ijycnd.com/play/xe7JZBd7/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-航班蛇患（国语版）",
+          "urls": [
+            "https://hd.ijycnd.com/play/RdGmyv7a/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-精武少年",
+          "urls": [
+            "https://hd.ijycnd.com/play/qaQz3Glb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-谜误",
+          "urls": [
+            "https://hd.ijycnd.com/play/DdwLP6ge/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-玩命快递3",
+          "urls": [
+            "https://hd.ijycnd.com/play/MvbmQ0bY/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-卢纳将军",
+          "urls": [
+            "https://hd.ijycnd.com/play/YerDP36b/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-动作巨星2",
+          "urls": [
+            "https://hd.ijycnd.com/play/nelwJ45d/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-动作巨星",
+          "urls": [
+            "https://hd.ijycnd.com/play/YerDPxKb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-仿生超极限",
+          "urls": [
+            "https://hd.ijycnd.com/play/QeZMAXQd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-绝地狙击",
+          "urls": [
+            "https://hd.ijycnd.com/play/PdyNq9we/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-绝杀招式",
+          "urls": [
+            "https://hd.ijycnd.com/play/QeZM262d/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-刺客",
+          "urls": [
+            "https://hd.ijycnd.com/play/Xe0ZGOGb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-所罗门王凯恩",
+          "urls": [
+            "https://hd.ijycnd.com/play/9b61ZkOa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-风速极战",
+          "urls": [
+            "https://hd.ijycnd.com/play/yb8Z4X2e/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-异星战境",
+          "urls": [
+            "https://hd.ijycnd.com/play/yb8ZJLje/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-冰封：重生之门",
+          "urls": [
+            "https://hd.ijycnd.com/play/QdJAm2bO/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-暗影守卫",
+          "urls": [
+            "https://hd.ijycnd.com/play/BeXKKyod/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-犯罪都市3",
+          "urls": [
+            "https://hd.ijycnd.com/play/PdyNNYze/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-犯罪都市2",
+          "urls": [
+            "https://hd.ijycnd.com/play/mepAAMXa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-犯罪都市",
+          "urls": [
+            "https://hd.ijycnd.com/play/lejrrDYe/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-灭世男孩",
+          "urls": [
+            "https://hd.ijycnd.com/play/nelww61d/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-套现",
+          "urls": [
+            "https://hd.ijycnd.com/play/QeZMMw2d/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-借命人",
+          "urls": [
+            "https://hd.ijycnd.com/play/QeZMQ4Ed/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-冰封侠：时空行者 粤语版",
+          "urls": [
+            "https://hd.ijycnd.com/play/rb2ZP4zb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-异域狼孩",
+          "urls": [
+            "https://hd.ijycnd.com/play/9av0pZ5d/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-终极追捕",
+          "urls": [
+            "https://hd.ijycnd.com/play/PdRAD80b/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-神秘的大佛",
+          "urls": [
+            "https://hd.ijycnd.com/play/zbqB9J0d/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-誓言",
+          "urls": [
+            "https://hd.ijycnd.com/play/Qe1ZDEZa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-行动代号 黑衣人",
+          "urls": [
+            "https://hd.ijycnd.com/play/negoGZje/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-燃烧",
+          "urls": [
+            "https://hd.ijycnd.com/play/oeEk7LWb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-怒火战猴",
+          "urls": [
+            "https://hd.ijycnd.com/play/ZdPygYye/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-精舞门",
+          "urls": [
+            "https://hd.ijycnd.com/play/wdLyNwXe/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-新倩女幽魂",
+          "urls": [
+            "https://hd.ijycnd.com/play/7axn5Bdy/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-城市猎人",
+          "urls": [
+            "https://hd.ijycnd.com/play/9av4Gm5d/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-铁镖",
+          "urls": [
+            "https://hd.ijycnd.com/play/Le3D5Mna/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-迷雾刺杀",
+          "urls": [
+            "https://hd.ijycnd.com/play/NbWNDMXa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-火线狙击",
+          "urls": [
+            "https://hd.ijycnd.com/play/vbm45oRa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-绣村刀之厨神",
+          "urls": [
+            "https://hd.ijycnd.com/play/wdLyrQ4e/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-史前怪兽 2024",
+          "urls": [
+            "https://hd.ijycnd.com/play/6dB0ZDJa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-魔女2",
+          "urls": [
+            "https://hd.ijycnd.com/play/xe7Kr71e/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-哈奴曼",
+          "urls": [
+            "https://hd.ijycnd.com/play/NbWNrlga/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-绣春刀：无间炼狱",
+          "urls": [
+            "https://hd.ijycnd.com/play/QbYPJNOa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-米勒上尉",
+          "urls": [
+            "https://hd.ijycnd.com/play/zbq4rq2a/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-伤痕累累",
+          "urls": [
+            "https://hd.ijycnd.com/play/7ax4BWqa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-麦客",
+          "urls": [
+            "https://hd.ijycnd.com/play/Le3DpJpa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-一眉归来",
+          "urls": [
+            "https://hd.ijycnd.com/play/NbWNlBoa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-火之谜",
+          "urls": [
+            "https://hd.ijycnd.com/play/zbq45wra/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-端溪奇案",
+          "urls": [
+            "https://hd.ijycnd.com/play/xbo48kLd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-脂粉双雄",
+          "urls": [
+            "https://hd.ijycnd.com/play/Le3DY9Aa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-酒店危机",
+          "urls": [
+            "https://hd.ijycnd.com/play/9av4ly0d/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-危险证据",
+          "urls": [
+            "https://hd.ijycnd.com/play/ZdPD711d/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-三个火枪手：米莱迪",
+          "urls": [
+            "https://hd.ijycnd.com/play/9avBKK8a/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-僵尸启示录：救赎",
+          "urls": [
+            "https://hd.ijycnd.com/play/QdJgL0Pe/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-前哨",
+          "urls": [
+            "https://hd.ijycnd.com/play/ZdPoROWb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-最终兵器：弓",
+          "urls": [
+            "https://hd.ijycnd.com/play/QbYA4n9b/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-前哨2：黑太阳",
+          "urls": [
+            "https://hd.ijycnd.com/play/kazJ0E7a/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-幻影战士",
+          "urls": [
+            "https://hd.ijycnd.com/play/xborEABa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-复仇杀神",
+          "urls": [
+            "https://hd.ijycnd.com/play/negjv7Gd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-麻辣教师GTO 复活",
+          "urls": [
+            "https://hd.ijycnd.com/play/xborMzKa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-觅渡",
+          "urls": [
+            "https://hd.ijycnd.com/play/vbmpKpOa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-天坑鹰猎",
+          "urls": [
+            "https://hd.ijycnd.com/play/wdLkjmgb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-孤胆",
+          "urls": [
+            "https://hd.ijycnd.com/play/zbq0Nq3a/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-猎者之心",
+          "urls": [
+            "https://hd.ijycnd.com/play/ZdPovmyb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-养蜂人 （英语版）",
+          "urls": [
+            "https://hd.ijycnd.com/play/xe7rGZyd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-养蜂人（普通话版）",
+          "urls": [
+            "https://hd.ijycnd.com/play/mbkn3vNa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-扫黑行动之黄金",
+          "urls": [
+            "https://hd.ijycnd.com/play/wdLkkmvb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-战士",
+          "urls": [
+            "https://hd.ijycnd.com/play/NbWyrrve/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-我是狂怒",
+          "urls": [
+            "https://hd.ijycnd.com/play/PdRqy7Kb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-露梁海战",
+          "urls": [
+            "https://hd.ijycnd.com/play/PdRqJXYb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-新威龙杀阵",
+          "urls": [
+            "https://hd.ijycnd.com/play/QdJgRpve/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-极拳攻缉",
+          "urls": [
+            "https://hd.ijycnd.com/play/6dBJy7Xd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-安全屋",
+          "urls": [
+            "https://hd.ijycnd.com/play/QbYAxo2b/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-十三太保之风云再起",
+          "urls": [
+            "https://hd.ijycnd.com/play/0dNmjJLb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-牡丹令",
+          "urls": [
+            "https://hd.ijycnd.com/play/mbknMOXa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-潜行 普通话版",
+          "urls": [
+            "https://hd.ijycnd.com/play/xbor7NKa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-红色星球",
+          "urls": [
+            "https://hd.ijycnd.com/play/PdRq8xLb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-周公伏妖",
+          "urls": [
+            "https://hd.ijycnd.com/play/kazJBWqa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-承包商",
+          "urls": [
+            "https://hd.ijycnd.com/play/xborOEja/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-怪物来袭",
+          "urls": [
+            "https://hd.ijycnd.com/play/7e5pLJqd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-打怪",
+          "urls": [
+            "https://hd.ijycnd.com/play/zbq0QO7a/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-临时劫案 粤语版",
+          "urls": [
+            "https://hd.ijycnd.com/play/wdLkg0pb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-少女斗恶龙",
+          "urls": [
+            "https://hd.ijycnd.com/play/mbknRyJa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-临时劫案",
+          "urls": [
+            "https://hd.ijycnd.com/play/NbWy6Xve/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-阿盖尔：神秘特工",
+          "urls": [
+            "https://hd.ijycnd.com/play/QdJMJvgb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-花千骨电影版",
+          "urls": [
+            "https://hd.ijycnd.com/play/oeEEA4We/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-特种突袭之觉醒",
+          "urls": [
+            "https://hd.ijycnd.com/play/ZdPkP1yb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-空军一号坠落",
+          "urls": [
+            "https://hd.ijycnd.com/play/xbooMw3b/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-极速搏杀",
+          "urls": [
+            "https://hd.ijycnd.com/play/mbkkYqXb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-勇敢的王后",
+          "urls": [
+            "https://hd.ijycnd.com/play/vbmm1knb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-倒数救援战",
+          "urls": [
+            "https://hd.ijycnd.com/play/QdJM4lDb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-周处除三害",
+          "urls": [
+            "https://hd.ijycnd.com/play/vbmmr09b/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-奥密克戎杀手",
+          "urls": [
+            "https://hd.ijycnd.com/play/vbmmvoGb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-真是兄弟",
+          "urls": [
+            "https://hd.ijycnd.com/play/0dNg4ove/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-情人看刀",
+          "urls": [
+            "https://hd.ijycnd.com/play/xe7m4prb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-浑身是胆",
+          "urls": [
+            "https://hd.ijycnd.com/play/wdLO4vAb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-红右手",
+          "urls": [
+            "https://hd.ijycnd.com/play/9avyAAge/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-罪恶名单",
+          "urls": [
+            "https://hd.ijycnd.com/play/mbkkmjvb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-堕落之堡",
+          "urls": [
+            "https://hd.ijycnd.com/play/zbqq3vyb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-布莱泽奥特曼电影版：大怪兽首都激战 普通话版",
+          "urls": [
+            "https://hd.ijycnd.com/play/7e5kpGZb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-布莱泽奥特曼电影版：大怪兽首都激战",
+          "urls": [
+            "https://hd.ijycnd.com/play/negOj4le/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-怒潮 2023",
+          "urls": [
+            "https://hd.ijycnd.com/play/kazDJNmd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-勿杀",
+          "urls": [
+            "https://hd.ijycnd.com/play/NbWrrrna/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-古楼镇陵宫",
+          "urls": [
+            "https://hd.ijycnd.com/play/xboooYkb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-深渊鲨难",
+          "urls": [
+            "https://hd.ijycnd.com/play/PdRmy1Kb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-战锋对决",
+          "urls": [
+            "https://hd.ijycnd.com/play/oeEEglge/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-仙剑奇侠传前传：酒剑仙",
+          "urls": [
+            "https://hd.ijycnd.com/play/wdLOzM4b/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-缉恶",
+          "urls": [
+            "https://hd.ijycnd.com/play/kazDz0Yd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-灭灯军团",
+          "urls": [
+            "https://hd.ijycnd.com/play/Qe1ONNob/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-康斯坦丁",
+          "urls": [
+            "https://hd.ijycnd.com/play/zbqqnApb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-惊天激战",
+          "urls": [
+            "https://hd.ijycnd.com/play/0dNgRWme/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-巴比伦故事",
+          "urls": [
+            "https://hd.ijycnd.com/play/mbkkMK5b/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-持枪的女孩",
+          "urls": [
+            "https://hd.ijycnd.com/play/Le3gEJ4e/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-龙城谜案",
+          "urls": [
+            "https://hd.ijycnd.com/play/Le3gYoQe/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-乔拉姆",
+          "urls": [
+            "https://hd.ijycnd.com/play/9avyZmne/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-泰特汉堡",
+          "urls": [
+            "https://hd.ijycnd.com/play/7axA1VPb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-父仇",
+          "urls": [
+            "https://hd.ijycnd.com/play/kazDPq7d/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-军犬 Leap",
+          "urls": [
+            "https://hd.ijycnd.com/play/0dNGOzeL/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-肮脏的南方小镇",
+          "urls": [
+            "https://hd.ijycnd.com/play/mbkxYnrd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-大冒险王之金丝玉盘",
+          "urls": [
+            "https://hd.ijycnd.com/play/negqR6Gb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-疯子老爸",
+          "urls": [
+            "https://hd.ijycnd.com/play/Qe1oJNPb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-荒野",
+          "urls": [
+            "https://hd.ijycnd.com/play/NbWE4Goe/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-爆裂点 粤语版",
+          "urls": [
+            "https://hd.ijycnd.com/play/vbmzJXrd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-爆裂点",
+          "urls": [
+            "https://hd.ijycnd.com/play/vbmzJGGd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-挡马夺刀",
+          "urls": [
+            "https://hd.ijycnd.com/play/7e5v5Mxa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-海王2：失落的王国 英语版",
+          "urls": [
+            "https://hd.ijycnd.com/play/7ax0g8Pa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-画江湖之不良帅",
+          "urls": [
+            "https://hd.ijycnd.com/play/NbWEVOJe/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-星门深渊",
+          "urls": [
+            "https://hd.ijycnd.com/play/wdLpE9wd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-海王2：失落的王国",
+          "urls": [
+            "https://hd.ijycnd.com/play/PdRyvKRb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-斗阵60分",
+          "urls": [
+            "https://hd.ijycnd.com/play/ZdPwVGyb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-地狱犬",
+          "urls": [
+            "https://hd.ijycnd.com/play/Qe1oN2Gb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-西装暴徒",
+          "urls": [
+            "https://hd.ijycnd.com/play/vbmzPL0d/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-惊奇队长2",
+          "urls": [
+            "https://hd.ijycnd.com/play/vbmzn6Ed/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-东京复仇者2 血腥万圣节篇-决战",
+          "urls": [
+            "https://hd.ijycnd.com/play/xe7xwAra/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-复仇铁拳",
+          "urls": [
+            "https://hd.ijycnd.com/play/7e5vMDYa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-协商",
+          "urls": [
+            "https://hd.ijycnd.com/play/QbYJZKAd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-无间毒票",
+          "urls": [
+            "https://hd.ijycnd.com/play/vbmz00pd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-偷破天际线",
+          "urls": [
+            "https://hd.ijycnd.com/play/kaz84pqd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-王牌杀姬",
+          "urls": [
+            "https://hd.ijycnd.com/play/vbmzXz9d/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-一击2：城市混战",
+          "urls": [
+            "https://hd.ijycnd.com/play/ZdPwW62b/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-一击",
+          "urls": [
+            "https://hd.ijycnd.com/play/kaz8YqOd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-王者天下3",
+          "urls": [
+            "https://hd.ijycnd.com/play/Qe1oQ8Vb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-冰雪大围捕",
+          "urls": [
+            "https://hd.ijycnd.com/play/negq60Gb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-猛虎3",
+          "urls": [
+            "https://hd.ijycnd.com/play/6dBM1n2b/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-地狱2",
+          "urls": [
+            "https://hd.ijycnd.com/play/QdJnYwvd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-谍影追凶",
+          "urls": [
+            "https://hd.ijycnd.com/play/wdLpJjWd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-步兵的崛起 复仇",
+          "urls": [
+            "https://hd.ijycnd.com/play/9avM88Ve/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-敢死队4：最终章",
+          "urls": [
+            "https://hd.ijycnd.com/play/wdLpZLXd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-林北小舞",
+          "urls": [
+            "https://hd.ijycnd.com/play/9avMlY0e/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-反恐特战队：清盘行动",
+          "urls": [
+            "https://hd.ijycnd.com/play/9avM2J5e/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-三不管",
+          "urls": [
+            "https://hd.ijycnd.com/play/7ax0kLBa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-刀剑乱舞电影版2",
+          "urls": [
+            "https://hd.ijycnd.com/play/6dBGzzke/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-黑夜传说3：狼族崛起",
+          "urls": [
+            "https://hd.ijycnd.com/play/9av6Oqra/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-黑夜传说5：血战",
+          "urls": [
+            "https://hd.ijycnd.com/play/6dBGx4Ye/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-夺命营救",
+          "urls": [
+            "https://hd.ijycnd.com/play/zbqWGxDe/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-黑金古殿",
+          "urls": [
+            "https://hd.ijycnd.com/play/xe7qEmrb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-怪物猎人",
+          "urls": [
+            "https://hd.ijycnd.com/play/QdJkvEge/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-静夜厮杀",
+          "urls": [
+            "https://hd.ijycnd.com/play/QdJkoJPe/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-厨娘杀手",
+          "urls": [
+            "https://hd.ijycnd.com/play/9av601ma/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-热血",
+          "urls": [
+            "https://hd.ijycnd.com/play/zbqWB32e/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-夺命局",
+          "urls": [
+            "https://hd.ijycnd.com/play/Le3m88Mb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-斗破苍穹·止戈",
+          "urls": [
+            "https://hd.ijycnd.com/play/7e5oG3Ab/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-雷霆扫毒",
+          "urls": [
+            "https://hd.ijycnd.com/play/6dBGMPXe/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-盛大对决",
+          "urls": [
+            "https://hd.ijycnd.com/play/6dBGGrxe/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-印尼黑帮",
+          "urls": [
+            "https://hd.ijycnd.com/play/PdRvVPYd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-生死交锋 2023",
+          "urls": [
+            "https://hd.ijycnd.com/play/ZdPqp0we/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-家庭计划",
+          "urls": [
+            "https://hd.ijycnd.com/play/xe7qzlGb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-杀手之王 2023",
+          "urls": [
+            "https://hd.ijycnd.com/play/QdJrE3Kd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-破冰",
+          "urls": [
+            "https://hd.ijycnd.com/play/zbqW6lre/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-快枪查理",
+          "urls": [
+            "https://hd.ijycnd.com/play/wdLmnnve/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-饥饿游戏：鸣鸟与蛇之歌",
+          "urls": [
+            "https://hd.ijycnd.com/play/7axWoPJe/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-反斗神鹰2",
+          "urls": [
+            "https://hd.ijycnd.com/play/zbqW25pe/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-反斗神鹰",
+          "urls": [
+            "https://hd.ijycnd.com/play/QdJqM9bO/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-里奥",
+          "urls": [
+            "https://hd.ijycnd.com/play/kazgPG7b/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-假面骑士极狐：4位王者与黑狐",
+          "urls": [
+            "https://hd.ijycnd.com/play/vbm9B9Rb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-走到尽头",
+          "urls": [
+            "https://hd.ijycnd.com/play/NbW944xe/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-猎豹行动2002",
+          "urls": [
+            "https://hd.ijycnd.com/play/9avp3q0d/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-不速之人",
+          "urls": [
+            "https://hd.ijycnd.com/play/mbk0nExd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-奋斗吧！橄榄姬",
+          "urls": [
+            "https://hd.ijycnd.com/play/Qe1vOr3a/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-霸刀",
+          "urls": [
+            "https://hd.ijycnd.com/play/7axr0EEd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-玩命快递",
+          "urls": [
+            "https://hd.ijycnd.com/play/5xe7LAa7/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-93国际列车大劫案：莫斯科行动",
+          "urls": [
+            "https://hd.ijycnd.com/play/6dBYYD2b/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-杀手之王",
+          "urls": [
+            "https://hd.ijycnd.com/play/QdJrE3Kd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-夺命狙击3破晓",
+          "urls": [
+            "https://hd.ijycnd.com/play/NbW90VXe/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-绝色保镖",
+          "urls": [
+            "https://hd.ijycnd.com/play/Le3xrMQa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-毒战",
+          "urls": [
+            "https://hd.ijycnd.com/play/mbk0X9Ed/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-毒战2",
+          "urls": [
+            "https://hd.ijycnd.com/play/9avpLXXd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-极品飞车",
+          "urls": [
+            "https://hd.ijycnd.com/play/J0dNk6eL/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-疾速反击",
+          "urls": [
+            "https://hd.ijycnd.com/play/Qe1vY10a/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-杀她",
+          "urls": [
+            "https://hd.ijycnd.com/play/NbW9QMoe/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-古惑镇激斗少年2",
+          "urls": [
+            "https://hd.ijycnd.com/play/oeEVqBNa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-魔鬼猎杀",
+          "urls": [
+            "https://hd.ijycnd.com/play/6dBYNkXb/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-苏乞儿",
+          "urls": [
+            "https://hd.ijycnd.com/play/9avplg8d/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-永远的姐妹",
+          "urls": [
+            "https://hd.ijycnd.com/play/Pe9E19De/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-杀手",
+          "urls": [
+            "https://hd.ijycnd.com/play/Le3xQ1Aa/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-深度恐惧",
+          "urls": [
+            "https://hd.ijycnd.com/play/9avpoXnd/index.m3u8"
+          ]
+        },
+        {
+          "name": "动作片-八武将",
+          "urls": [
+            "https://hd.ijycnd.com/play/9avpgkXd/index.m3u8"
           ]
         }
       ]
     }
-  ],
-  "sites": [],
-  "spider": "",
-  "wallpaper": "",
-  "doh": ""
+  ]
 }
