@@ -3,10 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <title>电视直播</title>
+    <title>樱桃电视</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { background: #000; font-family: "Microsoft Yahei", Arial, sans-serif; overflow: hidden; }
+        /* 隐藏 AppMySite 自带的导航栏 */
+        .ams-bottom-bar, .ams-header { display: none !important; }
         /* 开机启动页 */
         #splash {
             position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
@@ -16,7 +18,7 @@
         #skip {
             position: absolute; top: 20px; right: 30px; color: #fff; font-size: 32px;
             background: rgba(0, 0, 0, 0.5); padding: 8px 16px; border-radius: 4px;
-            cursor: pointer;
+            cursor: pointer; z-index: 10000;
         }
         /* 直播播放器容器 */
         #player {
@@ -29,7 +31,7 @@
     <!-- 开机广告页 -->
     <div id="splash">
         <img src="https://picui.ogmua.cn/s1/2026/03/28/69c749118be38.webp" alt="开机广告">
-        <div id="skip">跳过5秒</div>
+        <div id="skip">跳过2秒</div>
     </div>
     <!-- 直播播放器 -->
     <div id="player">
@@ -37,7 +39,7 @@
     </div>
 
     <script>
-        let countdown = 5;
+        let countdown = 2;
         const skipEl = document.getElementById('skip');
         const splashEl = document.getElementById('splash');
         const playerEl = document.getElementById('player');
@@ -58,7 +60,16 @@
             clearInterval(timer);
             splashEl.style.display = 'none';
             playerEl.style.display = 'block';
+            // 额外强制全屏
+            if (document.documentElement.requestFullscreen) {
+                document.documentElement.requestFullscreen();
+            }
         }
+
+        // 额外监听页面加载完成后确保跳转
+        window.addEventListener('load', () => {
+            setTimeout(goToPlayer, 2000);
+        });
     </script>
 </body>
 </html>
